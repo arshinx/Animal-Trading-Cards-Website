@@ -1,1 +1,6 @@
 /* add your CSS here */
+
+/* Tiger image size to 300px */
+div img {
+  width: 300px;
+}
